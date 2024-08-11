@@ -1,0 +1,28 @@
+header{
+    text-align: center;
+    border: 1px solid black;
+}
+header input{
+    background-color: green;
+    color: wheat;
+    margin-right: 5px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 20%;
+}
+div{
+    border: 1px solid black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 25px;
+    font-style: italic;
+    color: blueviolet;
+    word-spacing: 5px;
+    font-size: 25px;
+    font-weight: bold;
+}
+footer{
+    border: 1px solid black;
+}
+div h1{
+    color: red;
+}
